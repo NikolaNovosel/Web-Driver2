@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebDriver2", "WebDriver2\WebDriver2.csproj", "{05536B81-9AC8-46ED-8F28-CCD79C803CE8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebDriver2Tests", "WebDriver2Tests\WebDriver2Tests.csproj", "{855E6F37-9268-42DE-95D3-60DC35177298}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{05536B81-9AC8-46ED-8F28-CCD79C803CE8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{05536B81-9AC8-46ED-8F28-CCD79C803CE8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{05536B81-9AC8-46ED-8F28-CCD79C803CE8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{05536B81-9AC8-46ED-8F28-CCD79C803CE8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{855E6F37-9268-42DE-95D3-60DC35177298}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{855E6F37-9268-42DE-95D3-60DC35177298}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{855E6F37-9268-42DE-95D3-60DC35177298}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{855E6F37-9268-42DE-95D3-60DC35177298}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
