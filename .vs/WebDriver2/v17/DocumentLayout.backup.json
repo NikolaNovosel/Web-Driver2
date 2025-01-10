@@ -1,0 +1,76 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\DELL\\source\\repos\\WebDriver2\\Web-Driver2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{855E6F37-9268-42DE-95D3-60DC35177298}|WebDriver2Tests\\WebDriver2Tests.csproj|c:\\users\\dell\\source\\repos\\webdriver2\\web-driver2\\webdriver2tests\\pastebintests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{855E6F37-9268-42DE-95D3-60DC35177298}|WebDriver2Tests\\WebDriver2Tests.csproj|solutionrelative:webdriver2tests\\pastebintests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05536B81-9AC8-46ED-8F28-CCD79C803CE8}|WebDriver2\\WebDriver2.csproj|c:\\users\\dell\\source\\repos\\webdriver2\\web-driver2\\webdriver2\\pastebin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{05536B81-9AC8-46ED-8F28-CCD79C803CE8}|WebDriver2\\WebDriver2.csproj|solutionrelative:webdriver2\\pastebin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 460,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PastebinTests.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\WebDriver2\\Web-Driver2\\WebDriver2Tests\\PastebinTests.cs",
+              "RelativeDocumentMoniker": "WebDriver2Tests\\PastebinTests.cs",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\WebDriver2\\Web-Driver2\\WebDriver2Tests\\PastebinTests.cs",
+              "RelativeToolTip": "WebDriver2Tests\\PastebinTests.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAQwB4AAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-10T14:44:56.777Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Pastebin.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\WebDriver2\\Web-Driver2\\WebDriver2\\Pastebin.cs",
+              "RelativeDocumentMoniker": "WebDriver2\\Pastebin.cs",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\WebDriver2\\Web-Driver2\\WebDriver2\\Pastebin.cs",
+              "RelativeToolTip": "WebDriver2\\Pastebin.cs",
+              "ViewState": "AgIAACAAAAAAAAAAAAAqwBEAAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-10T14:44:42.22Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 31,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
